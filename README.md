@@ -19,3 +19,5 @@ Requirements: MySQL Server 5.1+
 Compability: 
 
 * TrinityCore 74da8dc41004adcea6167a4587bded4efa025387 (latest tested version)
+
+TODO: Implement foreign keys
